@@ -1,0 +1,14 @@
+C:\Users\dilan\source\repos\VideoLengthSeconds\obj\Debug\net8.0\VideoLengthSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilan\source\repos\VideoLengthSeconds\obj\Debug\net8.0\VideoLengthSeconds.AssemblyInfoInputs.cache
+C:\Users\dilan\source\repos\VideoLengthSeconds\obj\Debug\net8.0\VideoLengthSeconds.AssemblyInfo.cs
+C:\Users\dilan\source\repos\VideoLengthSeconds\obj\Debug\net8.0\VideoLengthSeconds.csproj.CoreCompileInputs.cache
+C:\Users\dilan\source\repos\VideoLengthSeconds\bin\Debug\net8.0\VideoLengthSeconds.exe
+C:\Users\dilan\source\repos\VideoLengthSeconds\bin\Debug\net8.0\VideoLengthSeconds.deps.json
+C:\Users\dilan\source\repos\VideoLengthSeconds\bin\Debug\net8.0\VideoLengthSeconds.runtimeconfig.json
+C:\Users\dilan\source\repos\VideoLengthSeconds\bin\Debug\net8.0\VideoLengthSeconds.dll
+C:\Users\dilan\source\repos\VideoLengthSeconds\bin\Debug\net8.0\VideoLengthSeconds.pdb
+C:\Users\dilan\source\repos\VideoLengthSeconds\obj\Debug\net8.0\VideoLengthSeconds.dll
+C:\Users\dilan\source\repos\VideoLengthSeconds\obj\Debug\net8.0\refint\VideoLengthSeconds.dll
+C:\Users\dilan\source\repos\VideoLengthSeconds\obj\Debug\net8.0\VideoLengthSeconds.pdb
+C:\Users\dilan\source\repos\VideoLengthSeconds\obj\Debug\net8.0\VideoLengthSeconds.genruntimeconfig.cache
+C:\Users\dilan\source\repos\VideoLengthSeconds\obj\Debug\net8.0\ref\VideoLengthSeconds.dll
